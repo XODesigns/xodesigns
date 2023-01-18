@@ -31,7 +31,7 @@ I'm really an artist / digital designer learning the art of development. always 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="100%" border="none">
 
 - 🌱 I’m currently learning Firebase, Tailwind and redux  
   
