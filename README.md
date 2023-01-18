@@ -31,19 +31,13 @@ I'm really an artist / digital designer learning the art of development. always 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning Firebase, Tailwind and redux  
   
 
 - ⚡ Fun fact: As a designer, functionality without design is still boring to me  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
